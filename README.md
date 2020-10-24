@@ -1,6 +1,6 @@
 # lina
 simple payloads(in work)
-# insatll
+# install
 ./install.sh
 
 lina >>help
