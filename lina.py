@@ -53,7 +53,7 @@ def wellcome():
         try:
             os.system(F"gcc -o {option3} paylo.c")
             os.system("rm paylo.c")
-            print("you payload is ready! its name is  pay")
+            print("you payload is ready!")
         except:
             print("Error")
         wellcome()
